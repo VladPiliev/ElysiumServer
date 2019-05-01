@@ -8,6 +8,7 @@ using System.IO;
 
 namespace ServerTest.Server.Auth
 {
+    // Комент
     class Cryptography
     {
         public static string DecryptString(string key, string cipherText)
